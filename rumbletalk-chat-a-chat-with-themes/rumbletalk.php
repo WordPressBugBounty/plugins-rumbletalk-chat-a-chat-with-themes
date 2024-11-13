@@ -5,7 +5,7 @@
  * Plugin URI: https://wordpress.org/plugins/rumbletalk-chat-a-chat-with-themes/
  * Description: Group chat room for WordPress and BuddyPress websites. Use one or many advanced stylish chat rooms for your community.
  * Tags: Group chat, BuddyPress
- * Version: 6.3.1
+ * Version: 6.3.2
  * Author: RumbleTalk Ltd
  * Author URI: https://rumbletalk.com
  * License: GPL2
@@ -36,7 +36,7 @@ if (!defined('WPINC')) {
  * Start at version 1.0.0 and use SemVer - https://semver.org
  * Update this as you release new versions.
  */
-define('RUMBLETALK_VERSION', '6.3.1');
+define('RUMBLETALK_VERSION', '6.3.2');
 
 add_filter('plugin_action_links', 'rumbletalk_settings_link', 10, 2);
 

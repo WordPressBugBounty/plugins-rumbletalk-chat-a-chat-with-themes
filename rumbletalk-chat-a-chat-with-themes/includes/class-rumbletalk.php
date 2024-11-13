@@ -150,7 +150,7 @@ class RumbleTalk
      */
     private function define_admin_hooks()
     {
-        self::$plugin_admin = new RumbleTalk_Admin($this->get_plugin_name(), $this->get_version()); 
+        self::$plugin_admin = new RumbleTalk_Admin($this->get_plugin_name(), $this->get_version());
     }
 
     /**

@@ -2,9 +2,9 @@
 Contributors: RumbleTalk
 Tags: group chat, chat room, members chat, community chat, buddypress chat
 Requires at least: 3.6		   
-Tested up to: 6.6.2
+Tested up to: 6.7
 Requires PHP: 5.2.0				 
-Stable tag: 6.3.1
+Stable tag: 6.3.2
 License: GPLv2 or later
 License URI: https://www.gnu.org/licenses/gpl-3.0.html
 
@@ -17,7 +17,7 @@ rumbletalk-chat-a-chat-with-themes
 
 = WordPress Group Chat Plugin =
 
-771,000 websites and online events are already using the <a href="https://rumbletalk.com/">RumbleTalk HTML Chat Platform</a>.
+782,000 websites and online events are already using the <a href="https://rumbletalk.com/">RumbleTalk HTML Chat Platform</a>.
 
 RumbleTalk is a member's group chat for a public open chat or a private members-only chat.
 - The account owner may create one room or several rooms
@@ -327,6 +327,9 @@ See the video here https://youtu.be/u3NBNWVy6fk
 
 
 == Changelog ==
+12/Nov/2024
+-version update
+
 01/Oct/2024
 - version update
 - fix for Vul reported for Authenticated Stored Cross-Site Scripting
